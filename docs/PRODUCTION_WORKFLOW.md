@@ -14,6 +14,8 @@
 7. Favor readable, scalable UI from the first vertical slice (lesson from Cities 2077).
 8. Do not announce dates, feature availability, pricing or Steam approval based on planning documents.
 
+**Detailed executable task order:** [MASTER_PRODUCTION_PLAN.md](MASTER_PRODUCTION_PLAN.md), v1.0, is the canonical end-to-end checklist. The following is a simplified phase overview; the master plan splits production lock, production, QA and post-launch into smaller checkpoints and adds parallel marketing.
+
 ## Phased plan
 
 ### VA-P0 — Commercial/art feasibility (CURRENT)
