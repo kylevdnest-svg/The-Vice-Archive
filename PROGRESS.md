@@ -29,6 +29,16 @@
 - [ ] Game UI, scene library, campaign, executable build, demo or release.
 - [ ] Final cast size, price, timeframe or market-fit validated.
 
+## Master plan tracking
+
+Canonical sequence: [docs/MASTER_PRODUCTION_PLAN.md](docs/MASTER_PRODUCTION_PLAN.md), plan v1.0 (2026-11-06).
+
+- **Current task:** VA-001 — author approves original visual language (face/eyes, linework, palette, character shapes) before asset generation at scale.
+- **Next:** VA-002 unnamed adult original lead concept; VA-003 reference sheet; VA-004 controlled expression/outfit/pose identity test; VA-005 commercial art and licence feasibility.
+- **Current gate:** VA-P0 — NOT ACCEPTED. Only local technical image generation is verified.
+- **Future phases:** VA-P1 mechanics prototype; VA-P2 vertical slice; VA-P3A production lock; VA-P3B content production; VA-P3C QA; VA-P4 launch; VA-P5 post-launch. VA-M marketing is parallel.
+- No date, price, release or character name has been accepted.
+
 ## Immediate next action
 
 **VA-P0 / Art Test 001:** select and approve a distinct original adult lead character **design without imposing a name**; verify reproducibility across multiple expressions and an outfit change. If style/consistency is weak, adjust pipeline rather than committing dozens of bad assets.
