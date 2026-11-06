@@ -1,12 +1,16 @@
-# VA-001 — Visual Identity / Art Direction (PROPOSAL)
+# VA-001 — Visual Identity / Art Direction (APPROVED DIRECTION; ART PENDING)
 
 **Date:** 2026-11-06 (Africa/Johannesburg)  
-**Status:** **DRAFT — AWAITING AUTHOR'S VISUAL APPROVAL.** Not canon; VA-001 has **NOT PASSED**.  
+**Status:** **VISUAL LANGUAGE APPROVED IN PRINCIPLE (2026-11-06); SAMPLE ART STILL PENDING.** VA-001 has **NOT PASSED** until a concept image is reviewed and accepted.  
 **Scope:** Visual language for original adult cast, backgrounds and basic game UI. Does **not** approve a named performer, art assets, model licence, production pipeline, or scene style.
+
+## Author's approved style choice — 2026-11-06
+
+The author explicitly agreed with **Option B, leaning toward A's simplicity**: **mature illustrated anime** with slightly more realistic adult facial proportions, subtly expressive eyes and defined anatomy, **combined with simplified indie-game linework, strong silhouettes and restrained flat shading**. The project must not drift toward generic high-detail anime, photo-realism, or childlike/cartoon body proportions. The specific first concept image remains unapproved.
 
 ## 1. Core identity: "Theatrical Ink"
 
-**Proposal:** *A contemporary, seductive theatre-noir visual novel with graphic, hand-inked 2D character portraits.*
+**Approved working visual language:** *A contemporary, seductive theatre-noir visual novel with graphic, hand-inked 2D character portraits; mature anime proportions leaning toward indie-cartoon simplicity.*
 
 The goal is approachable and attractive rather than hyperrealistic, ornamental or generic anime. Prioritize face readability and a striking silhouette at small UI sizes. The fantasy studio is luxurious but run by relatable adult performers rather than supernatural royalty.
 
@@ -77,7 +81,7 @@ These are choices within the agreed direction, not new genre proposals.
 
 ## 7. VA-001 acceptance checklist
 
-- [ ] Author agrees to/revises the visual language and palette.
+- [x] Author agrees to the **B leaning A** visual language. Palette remains a working proposal until reviewed alongside actual artwork.
 - [ ] One original, non-explicit concept image is created specifically for The Vice Archive.
 - [ ] Author confirms it is **visually on target** for face/eyes, silhouette, lines, shading, character presentation.
 - [ ] Accepted version and reference image are recorded. (Do not treat a generic model test as accepted character artwork.)
