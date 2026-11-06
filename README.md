@@ -19,6 +19,7 @@ The Vice Archive is a proposed **small, standalone, commercial adult management 
 ## Read these before making changes
 
 0. [MASTER_PRODUCTION_PLAN.md](docs/MASTER_PRODUCTION_PLAN.md) — **step-by-step tasks and approval gates from current art tests to release and post-launch**.
+0a. [ART_DIRECTION.md](art/ART_DIRECTION.md) — **VA-001 draft visual identity, awaiting author approval**.
 1. [GAME_VISION.md](docs/GAME_VISION.md) — approved concept and distinguishing gameplay.
 2. [DECISIONS_AND_SCOPE.md](docs/DECISIONS_AND_SCOPE.md) — confirmed vs proposed vs unresolved decisions.
 3. [ART_PIPELINE.md](docs/ART_PIPELINE.md) — tools, tests, results and commercial-use checkpoints.
