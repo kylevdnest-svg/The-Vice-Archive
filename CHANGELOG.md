@@ -1,5 +1,10 @@
 # The Vice Archive — Changelog
 
+## 2026-11-06 — VA-001 style direction selected
+
+- Author agreed to **B leaning toward A**: mature illustrated anime proportions, simplified expressive indie-style drawing, clean eyes, flatter shading and restrained linework.
+- Updated art direction and progress. The first concept image and exact execution are **not yet approved**, so VA-001 remains in progress.
+
 ## 2026-11-06 — VA-001 visual identity proposal (pending approval)
 
 - Created [art/ART_DIRECTION.md](art/ART_DIRECTION.md), a proposed original "Theatrical Ink" art language: face/eye standards, simplified linework, theatrical burgundy/plum palette, silhouettes, clothing, background and UI mood, plus known AI-art failure conditions.
