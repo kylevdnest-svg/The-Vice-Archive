@@ -1,7 +1,7 @@
-# VA-001 — Visual Identity / Art Direction (APPROVED DIRECTION; ART PENDING)
+# VA-001 — Visual Identity / Art Direction (STYLE ACCEPTED)
 
 **Date:** 2026-11-06 (Africa/Johannesburg)  
-**Status:** **VISUAL LANGUAGE APPROVED IN PRINCIPLE (2026-11-06); SAMPLE ART STILL PENDING.** VA-001 has **NOT PASSED** until a concept image is reviewed and accepted.  
+**Status:** **VA-001 ACCEPTED — 2026-11-06.** Author explicitly approved the newly generated visual identity board: "GREAT fucking start. I love it." This accepts the broad style and visual reference, **not** a canonical character, name, final production sprites, consistent variants, or commercial-use rights.  
 **Scope:** Visual language for original adult cast, backgrounds and basic game UI. Does **not** approve a named performer, art assets, model licence, production pipeline, or scene style.
 
 ## Author's approved style choice — 2026-11-06
@@ -79,12 +79,21 @@ Approve/correct these **three** independent choices before VA-001 is accepted:
 
 These are choices within the agreed direction, not new genre proposals.
 
-## 7. VA-001 acceptance checklist
+## 7. Author-approved visual benchmark
 
-- [x] Author agrees to the **B leaning A** visual language. Palette remains a working proposal until reviewed alongside actual artwork.
-- [ ] One original, non-explicit concept image is created specifically for The Vice Archive.
-- [ ] Author confirms it is **visually on target** for face/eyes, silhouette, lines, shading, character presentation.
-- [ ] Accepted version and reference image are recorded. (Do not treat a generic model test as accepted character artwork.)
-- [ ] Only then mark VA-001 **ACCEPTED** in `PROGRESS.md` and move to VA-002.
+- **Author approval:** "GREAT fucking start. I love it." (2026-11-06, response to the first generated visual identity board).
+- **Appearance:** Large left portrait of an original mature adult dark-burgundy-haired woman in black/burgundy gothic evening wear, confident green-eyed expression; right-side front/side/back fashion studies; bottom-row expressive faces; burgundy/plum/black/ivory/gold palette; bold lines and limited shading.
+- **Purpose:** approved **art-style reference** only. Reuse the palette, expression clarity, simplified contours, atmospheric theatre-noir presentation and adult proportions. This is not proof of consistent production assets.
+- **Generated file as returned in this chat:** `a_polished_character_style_sheet_art_direction_r.png`, PNG, approx 1.9MB; SHA-256: `705e972eb5d8d3ec4ff0acfc9fdbf5772e58dd25b96275367dcd995dcf745f16`. **The PNG has not been uploaded to GitHub**; archive the original image separately before production use. Do not claim the repo hosts it.
+- **Critical correction:** The generated board contains the text **"Juliette Fontaine"** although the author had **NOT approved a character name**. The board also contains generated age/personality/costume and possible outfit concepts. **All such textual character details are non-canonical placeholders.** Avoid using that name on future assets unless the author explicitly approves it after applying the real-online-name-generator rule. No canonical first performer name exists yet.
+- **Quality caveat:** some example variants may need correction to be usable. Future individual character asset approval remains separate from this visual direction signoff.
 
-**Next task after approval:** VA-002 unnamed original adult lead performer concept and selection; then VA-003 identity reference sheet and VA-004 local consistency tests.
+## 8. VA-001 acceptance checklist
+
+- [x] Author agrees to the **B leaning A** visual language. Palette and presentation were positively received in the generated benchmark.
+- [x] One original, non-explicit visual identity board was generated for The Vice Archive (original image remains in chat; GitHub asset archive pending).
+- [x] Author explicitly expressed approval of the generated visual board as the project's stylistic starting point.
+- [x] Identifying filename, SHA-256 and author's acceptance are recorded above; note PNG **not** stored in GitHub.
+- [x] VA-001 can be marked **ACCEPTED** in `PROGRESS.md`. Move to **VA-002** for first *character design* selection; keep the character unnamed until separately approved.
+
+**Next task:** VA-002 unnamed original adult lead performer concept and selection; then VA-003 identity reference sheet and VA-004 local consistency tests. The existing board is the visual benchmark, not a completed character pack.
