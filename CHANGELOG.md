@@ -1,5 +1,12 @@
 # The Vice Archive — Changelog
 
+## 2026-11-06 — VA-001 accepted: visual identity benchmark
+
+- Author positively approved the first original visual identity board: "GREAT fucking start. I love it."
+- Recorded the generated benchmark image's original name and SHA-256 in `art/ART_DIRECTION.md`; the actual PNG has **not** been committed to GitHub.
+- **Important naming safeguard:** The generator placed an unapproved "Juliette Fontaine" name on the sample image. This is **placeholder text only**, not canon. First performer design/name and commercial art assets remain subject to their own approval.
+- Marked VA-001 **ACCEPTED** and moved current task to **VA-002**, without falsely accepting the entire art production pipeline.
+
 ## 2026-11-06 — VA-001 style direction selected
 
 - Author agreed to **B leaning toward A**: mature illustrated anime proportions, simplified expressive indie-style drawing, clean eyes, flatter shading and restrained linework.
