@@ -33,8 +33,8 @@
 
 Canonical sequence: [docs/MASTER_PRODUCTION_PLAN.md](docs/MASTER_PRODUCTION_PLAN.md), plan v1.0 (2026-11-06).
 
-- **Current task:** VA-001 — IN PROGRESS. Author chose **mature anime illustration (B) leaning toward simplified indie style (A)**. See [art/ART_DIRECTION.md](art/ART_DIRECTION.md). No original approved concept image yet; do not move to VA-002.
-- **Next:** VA-002 unnamed adult original lead concept; VA-003 reference sheet; VA-004 controlled expression/outfit/pose identity test; VA-005 commercial art and licence feasibility.
+- **Current task:** **VA-002 — In progress / design selection pending.** VA-001 visual direction **ACCEPTED** (author liked generated style board). The benchmark is described in [art/ART_DIRECTION.md](art/ART_DIRECTION.md); the PNG exists in the chat, **not yet in GitHub**. Any name printed on the board is **not canonical**.
+- **Next:** VA-002 approve an **unnamed** adult original lead design; VA-003 character reference sheet; VA-004 local identity consistency; VA-005 asset/commercial licensing feasibility.
 - **Current gate:** VA-P0 — NOT ACCEPTED. Only local technical image generation is verified.
 - **Future phases:** VA-P1 mechanics prototype; VA-P2 vertical slice; VA-P3A production lock; VA-P3B content production; VA-P3C QA; VA-P4 launch; VA-P5 post-launch. VA-M marketing is parallel.
 - No date, price, release or character name has been accepted.
@@ -53,11 +53,13 @@ Before suggesting names, use a verifiable online name generator. No canonical ch
 
 - [x] Draft visual direction and candidate palette created in [art/ART_DIRECTION.md](art/ART_DIRECTION.md).
 - [x] Author approves **Option B leaning toward A's simplicity** as the working visual direction (mature stylized anime proportions with simplified indie-game illustration).
-- [ ] Author approves or adjusts exact palette/linework/mood after seeing the generated concept.
-- [ ] One original concept image created, visually reviewed and accepted.
-- [ ] VA-001 gate accepted before proceeding to VA-002.
+- [x] Author approved the overall illustrated concept board, palette and linework by enthusiastic feedback. This is style acceptance, **not approval of its printed character name/details**.
+- [x] One original non-explicit visual identity board created and **accepted as an art-style reference** (2026-11-06).
+- [x] VA-001 accepted; VA-002 remains pending first **character-design** acceptance.
 
 ## Acceptance checkpoint
+
+VA-001 visual identity: **ACCEPTED**. First character identity/name: **NOT ACCEPTED**. Local consistency process: **NOT TESTED**.
 
 Art pipeline technical execution: **PASS**.  
 Art style & identity consistency: **PENDING**.  
