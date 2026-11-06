@@ -1,5 +1,11 @@
 # The Vice Archive — Changelog
 
+## 2026-11-06 — VA-001 visual identity proposal (pending approval)
+
+- Created [art/ART_DIRECTION.md](art/ART_DIRECTION.md), a proposed original "Theatrical Ink" art language: face/eye standards, simplified linework, theatrical burgundy/plum palette, silhouettes, clothing, background and UI mood, plus known AI-art failure conditions.
+- Updated `PROGRESS.md` to record **VA-001 IN PROGRESS** only; no accepted concept art and no character name/design locked.
+- Awaiting author visual review and original concept-image acceptance before progressing to VA-002.
+
 ## 2026-11-06 — Master production plan v1.0
 
 - Added [docs/MASTER_PRODUCTION_PLAN.md](docs/MASTER_PRODUCTION_PLAN.md) with **VA-001 through VA-038**, parallel **VA-M01 through VA-M06**, gate criteria, QA, Steam distribution preparation, post-launch and risk/fallback actions.
