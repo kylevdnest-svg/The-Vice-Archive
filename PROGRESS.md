@@ -33,7 +33,7 @@
 
 Canonical sequence: [docs/MASTER_PRODUCTION_PLAN.md](docs/MASTER_PRODUCTION_PLAN.md), plan v1.0 (2026-11-06).
 
-- **Current task:** VA-001 — author approves original visual language (face/eyes, linework, palette, character shapes) before asset generation at scale.
+- **Current task:** VA-001 — IN PROGRESS. Proposed [art/ART_DIRECTION.md](art/ART_DIRECTION.md) for author review (not accepted). No original approved concept image yet; do not move to VA-002.
 - **Next:** VA-002 unnamed adult original lead concept; VA-003 reference sheet; VA-004 controlled expression/outfit/pose identity test; VA-005 commercial art and licence feasibility.
 - **Current gate:** VA-P0 — NOT ACCEPTED. Only local technical image generation is verified.
 - **Future phases:** VA-P1 mechanics prototype; VA-P2 vertical slice; VA-P3A production lock; VA-P3B content production; VA-P3C QA; VA-P4 launch; VA-P5 post-launch. VA-M marketing is parallel.
@@ -48,6 +48,13 @@ Then prototype **one performer + one client + one room + one fantasy** as a mech
 ## Naming constraint
 
 Before suggesting names, use a verifiable online name generator. No canonical character names have been approved. Do not reuse Vale or Sable surnames. Rejected name examples must not silently return as canon.
+
+## VA-001 visual-identity review
+
+- [x] Draft visual direction and candidate palette created in [art/ART_DIRECTION.md](art/ART_DIRECTION.md).
+- [ ] Author approves/corrects linework, face/eyes and theatrical mood.
+- [ ] One original concept image created, visually reviewed and accepted.
+- [ ] VA-001 gate accepted before proceeding to VA-002.
 
 ## Acceptance checkpoint
 
